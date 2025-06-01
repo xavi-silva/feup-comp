@@ -1,0 +1,20 @@
+class DuplicatedVariable {
+
+    public static void main(String[] args) {
+
+    }
+
+    public int foo() {
+        int a;
+        int a;
+        a = 10;
+        return a;
+    }
+
+    public int foo() {
+        int a;
+        a = 12;
+        return a;
+    }
+
+}

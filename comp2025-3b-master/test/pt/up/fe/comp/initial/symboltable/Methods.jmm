@@ -1,0 +1,7 @@
+class Methods{
+    public int all(int a){
+    		return a;
+    }
+
+
+}
