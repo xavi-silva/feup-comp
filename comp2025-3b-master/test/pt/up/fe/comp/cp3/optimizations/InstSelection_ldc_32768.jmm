@@ -1,7 +1,0 @@
-class InstSelection_ldc_32768 {
-	public int foo() {
-		int a;
-		a = 32768;
-		return a;
-	}
-}

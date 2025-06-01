@@ -1,5 +1,0 @@
-import UltraSuper;
-
-class Super extends UltraSuper{
-
-}

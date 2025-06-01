@@ -1,9 +1,0 @@
-class Cachorro extends Animal {
-    public int fazerSom() {
-        return 2;
-    }
-
-    public int chamarFazerSom() {
-        return super.fazerSom();
-    }
-}
