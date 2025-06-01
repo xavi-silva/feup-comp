@@ -1,0 +1,14 @@
+class StaticThis {
+
+    public static void main(String[] args) {
+        int a;
+        a = 2;
+        this.bar(a);
+    }
+
+    int bar(int a){
+        return a;
+    }
+
+
+}

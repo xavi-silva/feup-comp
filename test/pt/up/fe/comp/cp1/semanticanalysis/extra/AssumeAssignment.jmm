@@ -1,0 +1,18 @@
+import A;
+
+class AssumeAssignment {
+
+    public static void main(String[] args) {
+
+    }
+
+    public int bar() {
+        A a;
+        boolean b;
+
+        a = new A();
+        b = a.foo(3);
+
+        return 0;
+    }
+}

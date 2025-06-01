@@ -1,0 +1,14 @@
+class Test {
+
+    public int foo() {
+        Test a;
+        a=this;
+        return this.bar(this);
+    }
+
+    public int bar(Test x) {
+        return 1;
+    }
+}
+
+

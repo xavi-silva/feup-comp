@@ -1,0 +1,12 @@
+class StringField {
+    String $a;
+    String _b;
+    //int main;
+
+    public int foo() {
+        boolean b;
+        b = !b;
+        return 0;
+    }
+}
+
